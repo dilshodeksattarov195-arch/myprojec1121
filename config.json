@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevonnect",
+        "uuid": 10346830,
+        "checksum": "1drso"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
